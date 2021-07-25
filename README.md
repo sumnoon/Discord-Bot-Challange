@@ -1,2 +1,2 @@
 # Discord-Bot-Challange
-Discord Bot Building with gradual challange
+Planning to build discord bot with gradual difficulties. Will be using Python.
